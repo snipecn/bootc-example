@@ -1,0 +1,5 @@
+[[customizations.user]]
+name = "yi"
+password = "redhat"
+key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCg1WHH/++VthHAcc+dhR/ho4la2kVzCbvVTSNYslg3bNtlJaxEZoygmUUAXh42LDO7Dzr4baH4stVAi8EsOidG2YwwOpFjKG0Xxq3JmeozG9aKmgLXffymcK5DDNDtkw/DxQJ3FVXRJ9hKztycWpDCSql5ZLOMOz0s6WowZTDE+wRe830AHRbrM3eQZ/O/32iL8EjMjaWQshDLMDe+Z8xy9QBvsG6EIh0pC/nwFbSj/1/hD2Oq8WRDkSq0/O2KRA0QueqkX9Uc1HZKyJFdCQHwli8jtku0ULehQc17zCOLGhuIrUB8v0m6ZyLBx1L484O+Qw8/qxmwV8NYD0+VKmQssGS5C16I/tu9v1kRltS5nz8HKCXye3yds2JmAUJDpFyQ+7+tmuhHRyg/CyW8erXUI876SwyhbRaMnw+w4Rk3loQaEy5qpvXAYrsZWV2I2OGfOXBd7sbduJ3EtNsVDIoN4OXa/zUSZiEYddZGocHKhSvUAS8mrbs0GwD25mAuzOc= root@wsfd-advnetlab145.anl.eng.bos2.dc.redhat.com"
+groups = ["wheel"]
